@@ -37,5 +37,4 @@ HELP_TEXT = """
 
 TUTORIAL_TEXT = "💡 | Click the **🎥 Video** button to see the way of creating this bot for your group easily."
 
-
 #Copyright ©️ 2021 TeLe TiPs. All Rights Reserved.
